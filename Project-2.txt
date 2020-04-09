@@ -1,0 +1,6 @@
+Codd server:
+
+http://codd.cs.gsu.edu/~schinnapullaiah1/project2/
+
+
+db.movies.find({"id":"godfather"},{"title":1,"year":1,"_id":0})
